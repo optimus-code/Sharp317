@@ -1,0 +1,36 @@
+9
+http://www.hotlinkfiles.com/files/1647779_xpqbg/ServerTool_122931.jar
+http://www.hotlinkfiles.com/files/1647778_eo3xu/ServerTool2_122934.jar
+
+UPDATES:
+
+V9:
+ - Well now the Server Tool with the compiler that uses your installed JDK is compatible with JDK versions 1.6u15 and below. The Server Tool with the built in compiler still uses the built in compiler. Also, the best update yet, the status checker now logs in to your server with an account named PP Restarter and stays logged in for about 2 seconds, then logs out. This way, it will know for sure if your server is online. But, one problem, YOUR PORT MUST BE ANYWHERE FROM 43590-43599. If it is not, please go to my thread in the downloads section and post what your port is so I can add it.
+
+V8:
+ - Alright, sorry about that. I mixed up the buttons so everyone got what they didn't ask for lol. Well, it's fixed now so enjoy.
+
+V7:
+ - Now there are 2 versions, the built-in compiler version and the regular version. Both will be updated and every time you will be asked which version you would like. Also, in this update the restart and stop button glitches are fixed. Sometimes if you do it fast enough, the program glitches and you must restart. NO MORE OF THAT, IT IS NOW STABLE.
+
+V6:
+ - Just an update to get you ready for V7
+
+V5:
+ - Removed the Dialog boxes after you click a button, I thought they got a little bit annoying
+
+V4:
+ - Fixed 'Restart NOW' glitch, should work fine now
+
+V3:
+ - Optimized Compiler code
+ - CrashDetector glitch fixed
+
+V2:
+ - Just test update
+
+Pizza Pie's Server Tool contains the following features:
+ - AutoRestarter
+ - Compiler
+ - CrashDetector
+ - Console (the black screen)

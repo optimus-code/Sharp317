@@ -1,0 +1,17 @@
+abuser = stop_my_str for rule 10 muted? no
+abuser = balla_eli for rule 0 muted? no
+abuser = pked for rule 0 muted? no
+abuser = bakatool for rule 3 muted? no
+abuser = suphmeslic for rule 9 muted? no
+abuser = lol for rule 1 muted? no
+abuser = jennifer for rule 6 muted? no
+abuser = zdis400u68 for rule 244 muted? yes
+abuser = join_petesca for rule 9 muted? no
+abuser = foul for rule 10 muted? no
+abuser = i_hate_pspsi for rule 10 muted? no
+abuser = lemooons for rule 0 muted? no
+abuser = ex2pcxstwkpg for rule 211 muted? yes
+abuser = aejbxhe2m6i4 for rule 43 muted? yes
+abuser = empty_clipz for rule 0 muted? no
+abuser = empty_clipz for rule 4 muted? no
+abuser = 3qy2qh3k4dfn for rule 21 muted? yes
