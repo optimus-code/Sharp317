@@ -28,7 +28,8 @@ namespace Sharp317
 
 		private Int32 frameStackPtr = -1;
 
-		public ISAACRandomGenerator packetEncryption = null;
+		// TODO - Opcode encryption not setup yet
+		//public ISAAC packetEncryption = null;
 
 		public stream( )
 		{

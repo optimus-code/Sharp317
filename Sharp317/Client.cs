@@ -12,8 +12,9 @@ namespace Sharp317
 {
 	public class client : Player
 	{
-		protected ISAACRandomGenerator inStreamDecryption { get; private set; }
-		protected ISAACRandomGenerator outStreamDecryption { get; private set; }
+		//TODO - Opcodes aren't encrypted yet
+		//protected ISAAC inStreamDecryption { get; private set; }
+		//protected ISAAC outStreamDecryption { get; private set; }
 
 		public void followPlayer( int playerId )
 		{
@@ -18742,7 +18743,7 @@ namespace Sharp317
 			{
 			}
 
-			inStreamDecryption = new ISAACRandomGenerator( sessionKey.ToList().ToArray() );
+			//inStreamDecryption = new ISAAC( sessionKey.ToList().ToArray() );
 			for ( int i = 0; i < 4; i++ )
 			{
 				sessionKey[i] += 50;
@@ -18751,8 +18752,8 @@ namespace Sharp317
 			for ( int i = 0; i < 4; i++ )
 			{
 			}
-			outStreamDecryption = new ISAACRandomGenerator( sessionKey );
-			outStream.packetEncryption = outStreamDecryption;
+			//outStreamDecryption = new ISAAC( sessionKey );
+			//outStream.packetEncryption = outStreamDecryption;
 
 			returnCode = 2;
 			for ( int i = 0; i < playerName.Length; i++ )
